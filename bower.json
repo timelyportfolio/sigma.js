@@ -6,7 +6,7 @@
     "Alexis Jacomy <alexis.jacomy@gmail.com>"
   ],
   "description": "a javascript library dedicated to graph drawing",
-  "main": "build/sigma.min.js",
+  "main": "./build/sigma.min.js",
   "moduleType": [
     "amd",
     "node"
