@@ -1,4 +1,8 @@
 {
   "name": "sigma.js",
-  "version": "1.0.3"
+  "version": "1.0.3",
+  "ignore": [
+    "**/*",
+    "!/build"
+  ]
 }
