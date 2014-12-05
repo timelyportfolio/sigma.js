@@ -1,7 +1,6 @@
 {
   "name": "sigma.js",
   "version": "1.0.3",
-  "main": "build/sigma.min.js",
   "ignore": [
     "node_modules",
     "bower_components",
@@ -9,21 +8,5 @@
     "tests",
     "examples",
     "src"
-  ],
-  "moduleType": [
-    "amd",
-    "node"
-  ],
-  "keywords": [
-    "graph",
-    "drawing",
-    "network",
-    "interactive"
-  ],
-  "license": "MIT",
-  "private": true  "homepage": "http://sigmajs.org",
-  "authors": [
-    "Alexis Jacomy <alexis.jacomy@gmail.com>"
-  ],
-  "description": "a javascript library dedicated to graph drawing"
+  ]
 }
