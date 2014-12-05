@@ -10,7 +10,7 @@
     "tests",
     "examples",
     "src"
-  ]
+  ],
   "moduleType": [
     "amd",
     "node"
