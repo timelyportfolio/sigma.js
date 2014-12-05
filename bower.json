@@ -1,6 +1,7 @@
 {
   "name": "sigma.js",
   "version": "1.0.4",
+  "main": "build/sigma.min.js",
   "ignore": [
     "/*",
     "/build/sigma.require*.*",
